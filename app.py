@@ -26,7 +26,7 @@ with col_key:
 with col_link:
     st.markdown("<br>", unsafe_allow_html=True)
     st.markdown(
-        "👉 **[Get a Gemini API Key from Google AI Studio](https://aistudio.google.com/app/apikey)**"
+        "👉 **[Get a free Gemini API Key from Google AI Studio](https://aistudio.google.com/app/apikey)**"
     )
 
 if not user_api_key:
