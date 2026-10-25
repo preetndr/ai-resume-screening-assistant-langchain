@@ -9,7 +9,7 @@ from langchain_community.vectorstores import FAISS
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import JsonOutputParser
 
-st.set_page_config(page_title="Q1: AI Resume Screening Assistant", layout="wide")
+st.set_page_config(page_title="AI Resume Screening Assistant", layout="wide")
 st.title("📄 AI Resume Screening Assistant (LangChain + RAG)")
 
 # ---------------------------------------------------------
